@@ -71,7 +71,7 @@ function App() {
             <li className='text-skills'>Flexível</li>
             <li className='text-skills'>Fácil adaptação</li>
             <li className='text-skills'>Resolução de problemas</li>
-            <li className='text-skills'>Inglês básico</li>
+            <li className='text-skills'>Inglês Intermediário</li>
             <li className='text-skills'>Organização</li>
           </ul>    
         </div>
