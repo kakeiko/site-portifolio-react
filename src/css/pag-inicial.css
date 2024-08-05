@@ -1,5 +1,5 @@
 .pag-inicial{
-    background: var(--cor-fundo) url(../static/pag1/blood-background\ 1.svg) no-repeat;
+    background: var(--cor-fundo) url(../static/blood-background\ 1.svg) no-repeat;
     height: 100vh;
     display: flex;
     align-items: center;
