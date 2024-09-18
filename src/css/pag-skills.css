@@ -28,7 +28,7 @@
 .text-educacao, .text-tec, .text-skills{
     color: var(--cor-secundaria);
     font-family: var(--fonte-principal);
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 300;
     margin: 1em 0;
     text-align: center;

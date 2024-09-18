@@ -43,6 +43,7 @@ function App() {
           <img src={educacao_img} className='img-educacao'></img>
           <ul className='conteudo-educacao'>
             <li className='text-educacao'>Faculdade de Engenharia de Software na Estácio - março de 2024.</li>
+            <li className='text-educacao'>Transferência para faculdade de Engenharia de Software na Universidade de Vassouras - agosto de 2024.</li>
             <li className='text-educacao'>Curso da Alura - março de 2024.</li>
           </ul>
         </div>
@@ -61,6 +62,8 @@ function App() {
             <li className='text-tec'>Figma</li>
             <li className='text-tec'>Photoshop</li>
             <li className='text-tec'>PostegreSQL</li>
+            <li className='text-tec'>Flutter</li>
+            <li className='text-tec'>Dart</li>
           </ul>
         </div>
         <div className='skills'>
