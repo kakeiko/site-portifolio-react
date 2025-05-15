@@ -4,6 +4,10 @@
 @import url(./css/pag-contatos.css);
 @import url(./css/reset.css);
 
+html {
+  height: 3942.56px;
+}
+
 :root {
   --cor-principal: #dc2011;
   --cor-secundaria: #efdfc5;
